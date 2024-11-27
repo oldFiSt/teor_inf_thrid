@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/proga/teor_inf_thrid/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\23.dir\\main.cpp.obj -c D:\\proga\\teor_inf_thrid\\main.cpp",
+  "file": "D:\\proga\\teor_inf_thrid\\main.cpp",
+  "output": "CMakeFiles\\23.dir\\main.cpp.obj"
+}
+]
